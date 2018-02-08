@@ -41,10 +41,6 @@ img { border: none; }
 /*-- Pie de página ---------------------------------------------------*/
 #pie .enlaces { float: left; }
 #pie .copyright { float: right; }
-/* === IMPORTANTE ===================================================
-A partir de aquí, se pueden añadir todos los estilos propios que
-sean necesarios.
-================================================================== */
 #cabecera,
 #menu,
 #lateral,
